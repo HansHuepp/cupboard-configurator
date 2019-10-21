@@ -1,0 +1,114 @@
+nav h1{
+  color: white !important;
+  font-size: 1em !important;
+}
+nav a{
+  color: white;
+  background-color: rgb(40,70,100);
+  border-radius: 15px;
+  height: 60px;
+  padding: 5px;
+}
+nav a:hover{
+  color: white;
+  background-color: rgb(19,51,79);;
+}
+
+.abstand{
+  margin-top: 100px !important;
+}
+
+.box {
+  float: right;
+  padding: 20px;
+
+}
+
+#schrank{
+
+  height:525px;
+  border-radius: 0%;
+  border: 1px solid rgb(19,51,79);
+  margin-left: 50px;
+
+}
+#row3{
+  margin-top: 50px;
+
+
+
+}
+#row2 label{
+  margin-top: 15px;
+  margin-left: 20px;
+  font-size: 1.2em;
+}
+#profilepic{
+  height: 50px;
+  border-radius: 100%;
+  margin-right: 50px;
+
+}
+#bild{
+  margin-top: 30px !important;
+  margin-bottom: 30px;
+
+}
+#modelldiv a{
+  background-color: rgb(19,51,79);
+  color: white;
+  border: 0px;
+  margin-top: 30px;
+  margin-left: 30px;
+
+}
+
+#footer {
+  background-color: lightgray;
+  margin-top: 15px;
+}
+#kontaktformular{
+  margin-top: 2em;
+}
+#kontaktformular h2{
+  text-align: center;
+}
+.form-group input{
+  margin-top: 10px;
+}
+.auswahlrechteck img{
+  margin: 30px;
+  height: 250px;
+  padding: 0px;
+  border-radius: 100%;
+}
+.auswahlrechteck img:hover{
+  border: 0px solid rgb(19,51,79);
+  border-radius: 0%;
+}
+#kontaktformular a{
+  margin-bottom: 35px;
+  background-color: rgb(19,51,79);
+  border:0px;
+}
+#kontaktformular a:hover{
+  background-color: rgb(36, 100, 156);
+}
+#bild{
+  margin: 15px;
+}
+#formdaten{
+  margin-left: 30px!important;
+}
+.topper{
+  margin-top: 50px;
+}
+.kontaktinfo{
+
+}
+.konfiginfo{
+
+}
+h4{
+  font-size: 0.5em;
+}
